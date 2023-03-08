@@ -7,4 +7,4 @@
 - ⚡ Fun fact: I am an Introvert...  
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,flutter,mongo,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,flutter,mongo,postgres)](https://skillicons.dev)
