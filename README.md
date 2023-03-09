@@ -8,3 +8,14 @@
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,flutter,mongo,postgres)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileymanda)](https://github.com/rileymanda/github-readme-stats)
+![Rileys's github stats](https://github-readme-stats.vercel.app/api?username=rileymanda)
+
+
+
+
+
+
+
+
