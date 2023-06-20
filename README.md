@@ -1,10 +1,10 @@
 <h1 align="center"><b>Hi there 👋 I am Riley Manda</b></h1>
 
-<h3 align="left">I'm a Full Stack Developer with a passion for building mobile and web applications and exploring new technologies.</h3>
+<h2 align="left"> A Full Stack Developer with a passion for building mobile & web applications</h2>
 
 
 - 🔭 I'm actively seeking opportunities as a Full Stack Developer, with proficiency in React, Ruby, and Node.js.
-- 🌱  I'm enthusiastic about collaborating on open-source projects and bringing new ideas to life.
+- 🌱 I'm enthusiastic about collaborating on open-source projects and bringing new ideas to life.
 - 👯 I’m looking to collaborate on Open Source Projects and New Ideas.
 - ⚡ Fun fact about me: I'm an introvert who finds solace in coding and books.
 - ⚡ You'll often find me immersed in a coding project or engrossed in a good read.
