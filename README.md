@@ -12,7 +12,7 @@
 ## My Skills
 Here are some of the skills I've acquired throughout my journey as a developer:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,bootstrap,react,flutter,mongo,postgres,ruby,dart,java,php,python,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,php,python,javascript,webpack,bootstrap,react,tailwind,materialui,flutter,ruby,dart,mongo,postgres,firebase,azure,git,androidstudio,figma,xd&perline=15)](https://skillicons.dev)
 
 ## Connect with me:
 You can connect with me on:
