@@ -1,10 +1,10 @@
 ### Hi there 👋 I am Riley
 
-- 🔭 I’m currently working on Anything I find Interesting and exciting ...
-- 🌱 I’m currently learning python ...
+- 🔭 I’m open to work as a Full Stack Developer(React|Ruby|Node|)
+- 🌱 I’m currently a Full Stack developer student at Microverse.
 - 👯 I’m looking to collaborate on Open Source Projects and New Ideas ...
-- 📫 How to reach me: rileymanda0@gmail.com ...
-- ⚡ Fun fact about me: I am the boring introvert next door that prefers coding over meaningless conversation.. 
+- 📫 How to reach me: rileymanda0@gmail.com.
+- ⚡ Fun fact about me: I am the boring introvert next door that prefers coding and books. 
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,flutter,mongo,postgres)](https://skillicons.dev)
