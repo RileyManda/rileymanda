@@ -1,15 +1,21 @@
-### Hi there 👋 I am Riley
+<h1 align="center"><b>Hi there 👋 I am Riley Manda</b></h1>
 
-- 🔭 I’m open to work as a Full Stack Developer(React|Ruby|Node|)
-- 🌱 I’m currently a Full Stack developer student at Microverse.
-- 👯 I’m looking to collaborate on Open Source Projects and New Ideas ...
-- 📫 How to reach me: rileymanda0@gmail.com.
-- ⚡ Fun fact about me: I am the boring introvert next door that prefers coding and books. 
+<h3 align="left">I'm a Full Stack Developer with a passion for building mobile and web applications and exploring new technologies.</h3>
+
+
+- 🔭 I'm actively seeking opportunities as a Full Stack Developer, with proficiency in React, Ruby, and Node.js.
+- 🌱  I'm enthusiastic about collaborating on open-source projects and bringing new ideas to life.
+- 👯 I’m looking to collaborate on Open Source Projects and New Ideas.
+- ⚡ Fun fact about me: I'm an introvert who finds solace in coding and books.
+- ⚡ You'll often find me immersed in a coding project or engrossed in a good read.
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,flutter,mongo,postgres)](https://skillicons.dev)
+Here are some of the skills I've acquired throughout my journey as a developer:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,flutter,mongo,postgres,ruby,dart,java,php,python)](https://skillicons.dev)
 
 ## Connect with me:
+You can connect with me on:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rileymanda/)
 [![Medium](https://img.shields.io/badge/-Medium-blue?style=flat&logo=Medium&logoColor=white)](https://medium.com/@rileymanda)
@@ -17,8 +23,9 @@
 [![Duolingo](https://img.shields.io/badge/-Duolingo-green?style=flat&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/rileymanda0)
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-blue?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/6129553/rileymanda)
 
+## Contact me:
+📫 You can reach me at rileymanda0@gmail.com.
 
+Feel free to connect with me for any professional inquiries or discussions.
 
-
-
-
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rileymanda@gmail.com)
