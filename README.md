@@ -9,7 +9,7 @@
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,flutter,mongo,postgres)](https://skillicons.dev)
 
-<p><h5>Social: </h5></p>
+## Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rileymanda/)
 [![Medium](https://img.shields.io/badge/-Medium-blue?style=flat&logo=Medium&logoColor=white)](https://medium.com/@rileymanda)
