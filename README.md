@@ -24,10 +24,7 @@ You can connect with me on:
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-blue?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/6129553/rileymanda)
 
 ## Contact me:
-📫 You can reach me on  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rileymanda/)
-
-
-
-Feel free to connect with me for any professional inquiries or discussions.
+📫 Feel free to connect with me for any professional inquiries or discussions.
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rileymanda@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rileymanda/)
