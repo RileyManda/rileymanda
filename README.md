@@ -1,6 +1,14 @@
 <h1 align="center"><b>Hi there 👋 I am Riley Manda</b></h1>
 
-<h2 align="left"> A Full Stack Developer with a passion for building mobile & web applications</h2>
+<h2 align="center"> 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5192F7&center=true&multiline=true&repeat=false&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+
+</h2>
+
+
+
+<h2 align="left"> I am a Full Stack Developer with a passion for building mobile & web applications</h2>
 
 
 - 🔭 I'm actively seeking opportunities as a Full Stack Developer, with proficiency in React, Ruby, and Node.js.
