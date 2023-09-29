@@ -1,38 +1,38 @@
-<h1 align="center"><b>Hi there 👋 I am Riley Manda</b></h1>
+<div align="center">
+  <h1>Hello! 👋 I'm Riley Manda</h1>
+  <p>🚀 Full Stack Software Engineer | 🌟 Passionate Problem Solver</p>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5192F7&center=true&multiline=true&repeat=false&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+</div>
 
-<h2 align="center"> 
+ ### About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5192F7&center=true&multiline=true&repeat=false&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+A Full Stack Software Engineer with a knack for turning ideas into reality, backed by a B.Sc. (Hons) in Software Engineering and comprehensive training in Full Stack Development at Microverse. With a strong background in React, Ruby, and Node.js, I'm ready to take on new challenges and build amazing applications. Here's what I bring to the table.:
 
-</h2>
+- 🌐 Proficiency in modern web and mobile app development.
+- 💡 Creative problem-solving skills to tackle complex issues.
+- 🌟 Passion for clean code, design patterns, and best practices.
+- 🤝 Collaborative mindset, always eager to learn and grow.
+- 📚 Currently exploring the exciting world of Python and Data Science.
+  
 
+### My Skills
 
-
-<h2 align="left"> I am a Full Stack Developer with a passion for building mobile & web applications</h2>
-
-
-- 🔭 I'm actively seeking opportunities as a Full Stack Developer, with proficiency in React, Ruby, and Node.js.
-- 🌱 I'm enthusiastic about collaborating on open-source projects and bringing new ideas to life.
-- 👯 Currently learning Python and Data Science
-- ⚡ Fun fact about me: I'm an introvert who finds solace in coding and books.
-- ⚡ You'll often find me immersed in a coding project or engrossed in a good read.
-
-## My Skills
-Here are some of the skills I've acquired throughout my journey as a developer:
+I've honed my skills in a wide range of technologies, including:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,php,python,javascript,webpack,bootstrap,react,tailwind,materialui,angular,dart,flutter,androidstudio,ruby,mongo,postgres,firebase,azure,git,github,figma,xd&perline=15)](https://skillicons.dev)
 
-## Connect with me:
-You can connect with me on:
+### Let's Connect
+
+I'm open to exciting opportunities and collaborations. Let's connect and make something great together:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rileymanda/)
 [![Medium](https://img.shields.io/badge/-Medium-blue?style=flat&logo=Medium&logoColor=white)](https://medium.com/@rileymanda)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/rileycodez)
 [![Duolingo](https://img.shields.io/badge/-Duolingo-green?style=flat&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/rileymanda0)
-[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-blue?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/6129553/rileymanda)
 
-## Contact me:
-📫 Feel free to connect with me for any professional inquiries or discussions.
+### Get in Touch
 
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rileymanda@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rileymanda/)
+Feel free to reach out for any inquiries or discussions:
+
+📬 InMail: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rileymanda/)
