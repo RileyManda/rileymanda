@@ -7,9 +7,9 @@
 
  ### About Me
 
-A Full Stack Software Engineer with a knack for turning ideas into reality, backed by a B.Sc. (Hons) in Software Engineering and comprehensive training in Full Stack Development at Microverse. With a strong background in React, Ruby, and Node.js, I'm ready to take on new challenges and build amazing applications. Here's what I bring to the table.:
+A Full Stack Software Engineer with a knack for turning ideas into reality, backed by a B.Sc. (Hons) in Software Engineering and comprehensive training in Full Stack Development at Microverse. With a strong background in React, Ruby on Rails and Node.js, I'm ready to take on new challenges and build amazing applications. Here's what I bring to the table.:
 
-- 🌐 Proficiency in modern web and mobile app development.
+- 🌐 Proficiency in modern web and mobile application development.
 - 💡 Creative problem-solving skills to tackle complex issues.
 - 🌟 Passion for clean code, design patterns, and best practices.
 - 🤝 Collaborative mindset, always eager to learn and grow.
